@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ianq1w1
 - 👀 I’m interested in coding, games, challenges
 - i'm from Brazil - Pernambuco
-- i'm in first period of TSI (techonology and systems for internet)
+- TSI (techonology and systems for internet)
 - 18 years old
 
 <!---
